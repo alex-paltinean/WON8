@@ -1,4 +1,4 @@
-package org.fasttrackit;
+package org.fasttrackit.homework.accessmodifiers.main;
 
 public class ChildClass extends ParentClass{
 

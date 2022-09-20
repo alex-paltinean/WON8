@@ -1,7 +1,4 @@
-package org.fasttrackit.main;
-
-import org.fasttrackit.ChildClass;
-import org.fasttrackit.ParentClass;
+package org.fasttrackit.homework.accessmodifiers.main;
 
 public class Main {
     public static void main(String[] args) {
